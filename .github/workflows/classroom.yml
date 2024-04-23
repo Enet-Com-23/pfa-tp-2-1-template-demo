@@ -21,7 +21,7 @@ concurrency:
 
 env:
   ANDROID_APP_PATH: "application"
-  README_PATH: "sample"
+  README_PATH: "."
   IMG_API_LEVEL: 29
   AVD_NAME: "test"
 
