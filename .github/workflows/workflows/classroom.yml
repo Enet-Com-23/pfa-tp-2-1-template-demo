@@ -1,8 +1,8 @@
+name: GitHub Classroom Workflow
+
 #######################################################################
 # Note for students: DO NOT edit/delete any file under '.github' folder
 #######################################################################
-
-name: GitHub Classroom Workflow
 
 on:
   push:
